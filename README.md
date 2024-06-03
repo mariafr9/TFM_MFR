@@ -25,19 +25,19 @@ A continuación, se muestra un esquema con la estructura de carpetas de este rep
 <br><br>
 
 ## Principales códigos de ejecución:
-    - **clasificación_imagenes.py:** Organización de las imágenes obtenidas del repositorio *FastRMI* para el entrenamiento de redes neuronales.Se clasifican en primer lugar en función del tipo de contraste; T2/PD, y dentro de esta clasificación, en plano SAGITAL, CORONAL o AXIAL.
+- **clasificación_imagenes.py:** Organización de las imágenes obtenidas del repositorio *FastRMI* para el entrenamiento de redes neuronales.Se clasifican en primer lugar en función del tipo de contraste; T2/PD, y dentro de esta clasificación, en plano SAGITAL, CORONAL o AXIAL.
 
-**dicommanager.py:** Código creado por *Teresa Guallart-Naval*. Contiene funciones auxiliares para la generación de un archivo `DICOM 3.0`.
+- **dicommanager.py:** Código creado por *Teresa Guallart-Naval*. Contiene funciones auxiliares para la generación de un archivo `DICOM 3.0`.
 
-**todicom3.py:** Genera los archivos `DICOM 3.0` a partir de los archivos `DICOM 2.0`.
+- **todicom3.py:** Genera los archivos `DICOM 3.0` a partir de los archivos `DICOM 2.0`.
 
-**prepare_train_data.py:** Preparación de los datos de entrenamiento. 1- Homogenización del tamaño de las imágenes de una determinada contraste y orientación mediante interpolación trilineal. 2- Crear la imagen de baja resolución. 3- Crear un archivo h5 con las matrices de píxeles de las matrices de alta y baja resolución. 4- Clasificación de las imágenes en entrenamiento, test y validación.
+- **prepare_train_data.py:** Preparación de los datos de entrenamiento. 1- Homogenización del tamaño de las imágenes de una determinada contraste y orientación mediante interpolación trilineal. 2- Crear la imagen de baja resolución. 3- Crear un archivo h5 con las matrices de píxeles de las matrices de alta y baja resolución. 4- Clasificación de las imágenes en entrenamiento, test y validación.
 
-**modelo.py:** Arquitectura de la red.
+- **modelo.py:** Arquitectura de la red.
 
-**totrain.py:** Código de entrenamiento.
+- **totrain.py:** Código de entrenamiento.
 
-**test_fastMRI.py:** Aplicar el modelo entrenado a las imágenes test.
+- **test_fastMRI.py:** Aplicar el modelo entrenado a las imágenes test.
 
 
 ## Información adicional 📖
