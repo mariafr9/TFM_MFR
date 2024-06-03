@@ -25,7 +25,7 @@ A continuación, se muestra un esquema con la estructura de carpetas de este rep
 <br><br>
 
 ## Principales códigos de ejecución:
-**clasificación_imagenes.py:** Organización de las imágenes obtenidas del repositorio *FastRMI* para el entrenamiento de redes neuronales.Se clasifican en primer lugar en función del tipo de contraste; T2/PD, y dentro de esta clasificación, en plano SAGITAL, CORONAL o AXIAL.
+    - **clasificación_imagenes.py:** Organización de las imágenes obtenidas del repositorio *FastRMI* para el entrenamiento de redes neuronales.Se clasifican en primer lugar en función del tipo de contraste; T2/PD, y dentro de esta clasificación, en plano SAGITAL, CORONAL o AXIAL.
 
 **dicommanager.py:** Código creado por *Teresa Guallart-Naval*. Contiene funciones auxiliares para la generación de un archivo `DICOM 3.0`.
 
@@ -42,7 +42,7 @@ A continuación, se muestra un esquema con la estructura de carpetas de este rep
 
 ## Información adicional 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en mi TFM del máster en física biomédica por la [Universidad Complutense de Madrid](https://https://www.ucm.es/).
+Puedes encontrar mucho más sobre este proyecto en mi TFM del Máster en Física Biomédica por la [Universidad Complutense de Madrid](https://https://www.ucm.es/).
 
 ## Construido con 🛠️
 * [Python 3.7.9](https://www.python.org/downloads/release/python-379/) - Compilador
