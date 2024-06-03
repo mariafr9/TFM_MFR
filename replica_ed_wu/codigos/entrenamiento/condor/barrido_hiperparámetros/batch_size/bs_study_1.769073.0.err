@@ -1,0 +1,41 @@
+wandb: Currently logged in as: mariafrprivado (i3m). Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.17.0 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.16.5
+wandb: Run data is saved locally in /lhome/ext/i3m121/i3m1214/replica_ed_wu/codigos/entrenamiento/condor/barrido_hiperparámetros/wandb/run-20240517_141336-lxwe8kjx
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run classic-star-1
+wandb: ⭐️ View project at https://wandb.ai/i3m/bs_study
+wandb: 🚀 View run at https://wandb.ai/i3m/bs_study/runs/lxwe8kjx/workspace
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+wandb: - 2.330 MB of 2.330 MB uploadedwandb: \ 2.330 MB of 3.804 MB uploadedwandb: | 3.477 MB of 3.804 MB uploadedwandb: / 3.804 MB of 3.804 MB uploadedwandb: 
+wandb: Run history:
+wandb:      mean loss epoch (train) █▅▄▄▃▃▂▂▂▂▂▁▁▁▁▁▁▁▁▁
+wandb: mean loss epoch (validation) █▅▄▄▃▃▂▂▂▂▂▁▁▁▁▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:      mean loss epoch (train) 74.56525
+wandb: mean loss epoch (validation) 74.56525
+wandb: 
+wandb: 🚀 View run classic-star-1 at: https://wandb.ai/i3m/bs_study/runs/lxwe8kjx/workspace
+wandb: Synced 6 W&B file(s), 60 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240517_141336-lxwe8kjx/logs

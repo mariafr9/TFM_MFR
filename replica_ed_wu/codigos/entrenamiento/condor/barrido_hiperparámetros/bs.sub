@@ -1,0 +1,12 @@
+universe                = vanilla
+executable              = $(filename)
+arguments               = $Fnx(filename)
+output                  = $Fpn(filename).$(ClusterId).$(ProcId).out
+error                   = $Fpn(filename).$(ClusterId).$(ProcId).err
+log                     = $Fp(filename)/$(ClusterID).log
++JobFlavour             = "workday"
+getenv                  = True
+request_Gpus            = 4
++UseNvidiaV100          = True
+queue filename matching (/lhome/ext/i3m121/i3m1214/replica_ed_wu/codigos/entrenamiento/condor/barrido_hiperparámetros/batch_size/*.sh)
+

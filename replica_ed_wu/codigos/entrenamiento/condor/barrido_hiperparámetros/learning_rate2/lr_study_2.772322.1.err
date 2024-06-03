@@ -1,0 +1,61 @@
+wandb: Currently logged in as: mariafrprivado (i3m). Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.17.0 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.16.5
+wandb: Run data is saved locally in /lhome/ext/i3m121/i3m1214/replica_ed_wu/codigos/entrenamiento/condor/barrido_hiperparámetros/wandb/run-20240523_163450-li5zo6js
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run lucky-sea-5
+wandb: ⭐️ View project at https://wandb.ai/i3m/lr_study
+wandb: 🚀 View run at https://wandb.ai/i3m/lr_study/runs/li5zo6js/workspace
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+WARNING:root:Images sizes do not match. This will causes images to be display incorrectly in the UI.
+wandb: - 4.715 MB of 4.715 MB uploadedwandb: \ 5.485 MB of 5.485 MB uploadedwandb: | 5.485 MB of 5.485 MB uploadedwandb: 
+wandb: Run history:
+wandb:      mean loss epoch (train) █▅▄▄▄▃▃▃▃▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb: mean loss epoch (validation) █▅▄▄▄▃▃▃▃▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:      mean loss epoch (train) 74.69761
+wandb: mean loss epoch (validation) 74.69761
+wandb: 
+wandb: 🚀 View run lucky-sea-5 at: https://wandb.ai/i3m/lr_study/runs/li5zo6js/workspace
+wandb: Synced 6 W&B file(s), 120 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240523_163450-li5zo6js/logs

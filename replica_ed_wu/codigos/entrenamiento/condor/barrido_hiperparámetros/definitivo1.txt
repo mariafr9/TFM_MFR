@@ -1,0 +1,1 @@
+python definitivo.py --lr 0.00001 --batch_size 4 --num_epochs 125 --wandb_project 'normalizacion_study' --weight_decay 0.01
